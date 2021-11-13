@@ -20,7 +20,7 @@ We want to predict how many working hours an employee could be away from work so
     <li><a href="#explainable-and-interpretable-machine-learning">Explainable and Interpretable Machine Learning</a></li>
     <li><a href="#preprocessing-new-dataset">Preprocessing New Dataset</a></li>
     <li><a href="#prediction-result">Prediction Result</a></li>
-    <li><a href="#conclusion-and-recommendation">Conclusion and Recommendation</a></li>
+    <li><a href="#conclusion">Conclusion and Recommendation</a></li>
     <li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
@@ -92,7 +92,7 @@ At this stage, preprocessing stage will apply to new data set which want to pred
 At this stage, new data set will predict with selected model before, in the following ways:
 * Predict New Dataset
 * Import to CSV File
-* Prediction Analysis
+* <a href="https://public.tableau.com/app/profile/juan1691/viz/PredictedAbsenteeismProject/PredictedInformation">Prediction Analysis</a>.  
 
 ## Conclusion 
 We conclude our result and give recommendation based on it
