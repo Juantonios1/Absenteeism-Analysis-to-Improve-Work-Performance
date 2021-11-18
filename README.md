@@ -81,7 +81,7 @@ At this stage, another information analysis will be carried out, as follows:
 ![Personal Information of Employee](Image/Dashboard_2.png) <br>
 * Daily Work <br>
 ![Daily Work](Image/Dashboard_3.png) <br>
-You can also see full dashboard at <a href="https://public.tableau.com/app/profile/juan1691/viz/AnalysisAbseenteismProject/AnalysisAbseenteism">Tableau</a>.  
+You can also see full dashboard of analysis at <a href="https://public.tableau.com/app/profile/juan1691/viz/AnalysisAbseenteismProject/AnalysisAbseenteism">Analysis Tableau</a>.  
 
 ## Model Selection
 At this stage will be done making and optimizing the machine learning model, as follows:
@@ -100,12 +100,15 @@ At this stage, preprocessing stage will apply to new data set which want to pred
 ## Prediction Result
 At this stage, new data set will predict with selected model before, in the following ways:
 * Predict New Dataset
+  * For view the result of prediction, please visit <a href="https://github.com/Juantonios1/Performance-Improvement-Absenteeism-at-Work/blob/main/Data_set/Absenteeism_data_predict.csv">Prediction Dataset</a>.  
 * Import to CSV File
-* <a href="https://public.tableau.com/app/profile/juan1691/viz/PredictedAbsenteeismProject/PredictedInformation">Prediction Analysis</a>.  
+* Prediction Analysis
+  * For view the full analysis of prediction dataset, please visit <a href="https://public.tableau.com/app/profile/juan1691/viz/PredictedAbsenteeismProject/PredictedInformation">Prediction Tableau</a>.  
 
 ## Conclusion 
 We conclude our result and give recommendation based on it
-* Summary Model
+* Summary Model <br>
+![Daily Work](Image/summary.png) <br>
 * Business Insight
   * January & February have the less average abseenteism beside that March, April, and June have most average abseenteism time. Maybe in this month spirit of employee is down and they use the reason to absent
   * BMI and Age dont have specific pattern with Abseenteism
