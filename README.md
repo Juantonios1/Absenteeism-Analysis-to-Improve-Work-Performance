@@ -76,11 +76,8 @@ At this stage, data preparation and processing will be carried out before being 
 ## Data Analytics
 At this stage, another information analysis will be carried out, as follows:
 * Information Abseenteism in Company
-![absent](Image/Dashboard 1.png)
 * Personal Information of Employee
-![absent](Image/Dashboard 2.png)
 * Daily Work
-![absent](Image/Dashboard 3.png)
 <br> You can also see full dashboard at <a href="https://public.tableau.com/app/profile/juan1691/viz/AnalysisAbseenteismProject/AnalysisAbseenteism">Tableau</a>.  
 
 ## Model Selection
