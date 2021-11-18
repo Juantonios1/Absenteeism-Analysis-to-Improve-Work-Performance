@@ -1,5 +1,5 @@
 # Performance-Improvement-Absenteeism-at-Work
-We want to predict how many working hours an employee could be away from work so we can reordering the task to improve performance and work quality and we want to know which Employee will absent
+For full report of project, please visit <a href="https://github.com/Juantonios1/Performance-Improvement-Absenteeism-at-Work/blob/main/Absenteeism%20at%20Work.ipynb">Absenteeism at Work</a>.
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
