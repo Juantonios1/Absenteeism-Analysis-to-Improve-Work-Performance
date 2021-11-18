@@ -1,7 +1,11 @@
 # Performance-Improvement-Absenteeism-at-Work
+
 In this project, i want to share how absenteeism can impact for performance on organization and the problem of it. To solve that problem i use data analytics to describe the pattern using Tableau and predict which employee will absent so organization can take action and prevent the problem.
+![absent](Image/BLOG_Absent.jpg)
+<br>
 For full report of project, please visit <a href="https://github.com/Juantonios1/Performance-Improvement-Absenteeism-at-Work/blob/main/Absenteeism%20at%20Work.ipynb">Absenteeism at Work</a>.
 
+## Summary Process
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Content</summary>
@@ -51,7 +55,7 @@ We want to predict how many working hours an employee could be away from work so
 | Education         	| Representing different levels of education                                                                                                                                                      	|
 |Childern    	| Number children in the family	|
 |Pets       	| Number of pets in family                                                                                                                                                                                                            	|
-|Absenteeism time in hours         	| Target                                                                                                                                                  	|
+|Absenteeism time in hours         	| Time that employee dont do their task                                                                                                                                                  	|
 
 ## Exploratory Data Analysis
 At this stage, a brief analysis of the data will be carried out, as follows:
@@ -72,8 +76,11 @@ At this stage, data preparation and processing will be carried out before being 
 ## Data Analytics
 At this stage, another information analysis will be carried out, as follows:
 * Information Abseenteism in Company
+![absent](Image/Dashboard 1.png)
 * Personal Information of Employee
+![absent](Image/Dashboard 2.png)
 * Daily Work
+![absent](Image/Dashboard 3.png)
 <br> You can also see full dashboard at <a href="https://public.tableau.com/app/profile/juan1691/viz/AnalysisAbseenteismProject/AnalysisAbseenteism">Tableau</a>.  
 
 ## Model Selection
