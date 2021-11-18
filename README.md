@@ -75,7 +75,8 @@ At this stage, data preparation and processing will be carried out before being 
 
 ## Data Analytics
 At this stage, another information analysis will be carried out, as follows:
-* Information Abseenteism in Company
+* Information Abseenteism in Company <br>
+![SHAP](Image/Dashboard_1.png) <br>
 * Personal Information of Employee
 * Daily Work
 <br> You can also see full dashboard at <a href="https://public.tableau.com/app/profile/juan1691/viz/AnalysisAbseenteismProject/AnalysisAbseenteism">Tableau</a>.  
@@ -88,7 +89,8 @@ At this stage will be done making and optimizing the machine learning model, as 
 ## Explainable and Interpretable Machine Learning
 At this stage there will be an explanation in the decision making of the machine learning model, in the following ways:
 * Feature Importance
-* SHAP 
+* SHAP <br>
+![SHAP](Image/SHAP.png)
 
 ## Preprocessing New Dataset
 At this stage, preprocessing stage will apply to new data set which want to predict
