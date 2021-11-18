@@ -107,7 +107,23 @@ At this stage, new data set will predict with selected model before, in the foll
 We conclude our result and give recommendation based on it
 * Summary Model
 * Business Insight
-* Conclusion
+  * January & February have the less average abseenteism beside that March, April, and June have most average abseenteism time. Maybe in this month spirit of employee is down and they use the reason to absent
+  * BMI and Age dont have specific pattern with Abseenteism
+  * Employee with 2 Children and 1 or 2 pets have more abseenteism time then the others
+  * Reason 1 (deseases) & 4 (poison illness) are the most reason when employee absent. It mean company less care about the healthy of employee
+  * 6 - 11 and day 20 - 24 have more abseenteism time then other day. May be there are some traffic at that day every month
+  * Low distance (under 28) have higher absenteeism time than higher distance
+  * Low daily workload have higher absenteeism time than higher daily workload. It may be they think thay have more free time so they can do absent
+  * Company must check employee with ID 3,11, 14 because they have track record to have high absenteeism time
+  * ID 34, 9, 36 predicted will have high absenteeism
+* Recommendation
+  * The company need to mantain employee spirit. They can make some event to keep employee spirit like gathering or eat together for every division
+  * For every director or supervisor can reduce the workload for every senior employee so they can mantain their health and prevent absenteeism time
+  * Every supervisor need to remind their employee to do their task even they need to look after their children or pet
+  * Employee need to upgrade their health facilities in office or have some link with health facilities near at office so employee no need to waste much time to go to other hospital
+  * If can, company can give lunch menu or give some snack at office to prevent employee have poison illness
+  * Every supervisor or director need to track their employee task or make schedule so the employee will stay on track. It include ID 34, 9, 36 who predicted will have high absenteeism
+  * HR team need to call id 3,11, 14 to ask what improvement that they need to reduce absenteeism time
 
 ## Contributors:
 Juan Antonio Suwardi - antonio.juan.suwardi@gmail.com  
