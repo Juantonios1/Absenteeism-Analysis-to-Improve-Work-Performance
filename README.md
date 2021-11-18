@@ -77,9 +77,11 @@ At this stage, data preparation and processing will be carried out before being 
 At this stage, another information analysis will be carried out, as follows:
 * Information Abseenteism in Company <br>
 ![Information Abseenteism in Company](Image/Dashboard_1.png) <br>
-* Personal Information of Employee
-* Daily Work
-<br> You can also see full dashboard at <a href="https://public.tableau.com/app/profile/juan1691/viz/AnalysisAbseenteismProject/AnalysisAbseenteism">Tableau</a>.  
+* Personal Information of Employee <br>
+![Personal Information of Employee](Image/Dashboard_2.png) <br>
+* Daily Work <br>
+![Daily Work](Image/Dashboard_3.png) <br>
+You can also see full dashboard at <a href="https://public.tableau.com/app/profile/juan1691/viz/AnalysisAbseenteismProject/AnalysisAbseenteism">Tableau</a>.  
 
 ## Model Selection
 At this stage will be done making and optimizing the machine learning model, as follows:
