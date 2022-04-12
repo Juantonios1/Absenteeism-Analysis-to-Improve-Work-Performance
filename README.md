@@ -85,7 +85,7 @@ You can also see full dashboard of analysis at <a href="https://public.tableau.c
 
 ## Model Selection
 At this stage will be done making and optimizing the machine learning model, as follows:
-* Model Benchmark
+* Model Benchmark (Linear Regression, Ridge, KNN Regression, Lasso, and Decision Tree Regression)
 * Hyperparameter Tuning
 
 ## Explainable and Interpretable Machine Learning
