@@ -61,12 +61,11 @@ Based on these problems, this analysis is carried out to predict how long an emp
 At this stage, a brief analysis of the data will be carried out, as follows:
 * Distribution Data
 * Normal Test
+* Data Cardinalities
+* Identify Missing Values
 * Data Correlation
 
 ![correlation](Image/Correlation.png)
-
-* Data Cardinalities
-* Identify Missing Values
 
 ## Data Preprocessing
 At this stage, data preparation and processing will be carried out before being used as a data model, as follows:
