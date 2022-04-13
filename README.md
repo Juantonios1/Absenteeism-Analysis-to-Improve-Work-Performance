@@ -63,7 +63,7 @@ At this stage, a brief analysis of the data will be carried out, as follows:
 * Normal Test
 * Data Correlation
 
-![correlation](Image/correlation.png)
+![correlation](Image/Correlation.png)
 
 * Data Cardinalities
 * Identify Missing Values
