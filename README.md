@@ -62,6 +62,9 @@ At this stage, a brief analysis of the data will be carried out, as follows:
 * Distribution Data
 * Normal Test
 * Data Correlation
+
+![correlation](Image/correlation.png)
+
 * Data Cardinalities
 * Identify Missing Values
 
@@ -102,7 +105,9 @@ At this stage, preprocessing stage will apply to new data set which want to pred
 At this stage, new data set will predict with selected model before, in the following ways:
 * Predict New Dataset
   * For view the result of prediction, please visit <a href="https://github.com/Juantonios1/Performance-Improvement-Absenteeism-at-Work/blob/main/Data_set/Absenteeism_data_predict.csv">Prediction Dataset</a>.  
-![prediction](Image/Data prediction.png)
+
+![prediction](Image/prediction.png)
+
 * Import to CSV File
 * Prediction Analysis
   * For view the full analysis of prediction dataset, please visit <a href="https://public.tableau.com/app/profile/juan1691/viz/PredictedAbsenteeismProject/PredictedInformation">Prediction Tableau</a>.  
