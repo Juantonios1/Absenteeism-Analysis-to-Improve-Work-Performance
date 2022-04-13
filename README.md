@@ -32,13 +32,13 @@ For full report of this project, please visit <a href="https://github.com/Juanto
 
 ## Business Background
 **Context :**  
-Employee motivation, shift work system, team work and other means of enhancing employee happiness and job satisfaction have been applied by management to reduce employee absenteeism and labour turnover to improve overall organizational performance. However, despite the awareness of the adverse effect of absenteeism on overall organizational productivity and performance, the level of absenteeism tend to remain high. Absenteeism defined as any failure of an employee to report for or remain at work as scheduled, regardless of reason, expresses a monitory implication. The term ‘as scheduled’ is very significant, for this automatically excludes vacations, holidays, jury duty and the like. It also eliminates the problem of determining whether the absenteeism is excusable or not. Medically verified illness is a good example</a>.  
+Organizations for years have been looking for ways to improve human resource management by paying attention to aspects such as work organization, organizational environment, or personal issues to reduce employee absenteeism at work and to reduce high employee turnover. However, with the various ways that have been done so far, the absenteeism rate in some organizations still tends to be high. Absenteeism defined as any failure of an employee to report for or remain at work as scheduled, regardless of reason, expresses a monitory implication. The term ‘as scheduled’ is very significant, for this automatically excludes vacations, holidays, jury duty and the like. It also eliminates the problem of determining whether the absenteeism is excusable or not. The absence of workers from the workplace can be disruptive and increase costs for the organization and is an indication that there is poor work adjustment for employees.</a>.  
 
 **Problem Statement :**  
-From a business perspective, the employee is absent and is simply not available to perform his or her job, which means the absenteeism will cost money. Absenteeism is costly because it reduces output and is disruptive because it requires that schedules and programmes be modified and one of the contributory factors in the failure of organisations a departments to meet performance targets.
+From a business perspective, employees who are not present to do their jobs, will cost more than they should. The absence is a big problem because it reduces output and is annoying because it requires rescheduling and changing programs which is one of the contributing factors to the failure of a department's organization to meet performance targets.
 
 **Goals :**  
-We want to predict how many working hours an employee could be away from work so we can reordering the task to improve performance and work quality and we want to know which Employee will absent.
+Based on these problems, this analysis is carried out to predict how long an employee will be absent from work and what factors affect the length of time someone is absent from work so that the organization can rearrange tasks to improve work performance and quality and find out which employees will be absent. To get answers to these problems, an analysis is carried out using supervised machine learning: regression.
 
 ## Data Understanding
 
@@ -87,6 +87,7 @@ You can also see full dashboard of analysis at <a href="https://public.tableau.c
 At this stage will be done making and optimizing the machine learning model, as follows:
 * Model Benchmark (Linear Regression, Ridge, KNN Regression, Lasso, and Decision Tree Regression)
 * Hyperparameter Tuning
+For summary can see on picture below:
 
 ## Explainable and Interpretable Machine Learning
 At this stage there will be an explanation in the decision making of the machine learning model, in the following ways:
@@ -101,6 +102,7 @@ At this stage, preprocessing stage will apply to new data set which want to pred
 At this stage, new data set will predict with selected model before, in the following ways:
 * Predict New Dataset
   * For view the result of prediction, please visit <a href="https://github.com/Juantonios1/Performance-Improvement-Absenteeism-at-Work/blob/main/Data_set/Absenteeism_data_predict.csv">Prediction Dataset</a>.  
+![prediction](Image/Data prediction.png)
 * Import to CSV File
 * Prediction Analysis
   * For view the full analysis of prediction dataset, please visit <a href="https://public.tableau.com/app/profile/juan1691/viz/PredictedAbsenteeismProject/PredictedInformation">Prediction Tableau</a>.  
