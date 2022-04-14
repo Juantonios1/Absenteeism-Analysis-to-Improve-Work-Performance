@@ -3,7 +3,7 @@
 In this project, i want to share how absenteeism can impact for performance on organization and the problem of it. To solve that problem i use data analytics to describe the pattern using Tableau and predict which employee will absent so organization can take action and prevent the problem using regression method (supervised learning).
 ![absent](Image/BLOG_Absent.jpg)
 <br>
-For full report of this project, please visit <a href="https://github.com/Juantonios1/Performance-Improvement-Absenteeism-at-Work/blob/main/Absenteeism%20at%20Work.ipynb">Absenteeism at Work</a>.
+For full report of this project, please visit <a href="https://github.com/Juantonios1/Absenteeism-Analysis-to-Improve-Work-Performance/blob/main/Absenteeism%20Analysis%20ipynb/Absenteeism%20Analysis%20to%20Improve%20Work%20Performance.ipynb">Absenteeism at Work</a>.
 
 ## Summary Process
 <!-- TABLE OF CONTENTS -->
@@ -119,20 +119,12 @@ We conclude our result and give recommendation based on it
   * January & February have the less average abseenteism beside that March, April, and June have most average abseenteism time. Maybe in this month spirit of employee is down and they use the reason to absent
   * BMI and Age dont have specific pattern with Abseenteism
   * Employee with 2 Children and 1 or 2 pets have more abseenteism time then the others
-  * Reason 1 (deseases) & 4 (poison illness) are the most reason when employee absent. It mean company less care about the healthy of employee
-  * 6 - 11 and day 20 - 24 have more abseenteism time then other day. May be there are some traffic at that day every month
-  * Low distance (under 28) have higher absenteeism time than higher distance
-  * Low daily workload have higher absenteeism time than higher daily workload. It may be they think thay have more free time so they can do absent
-  * Company must check employee with ID 3,11, 14 because they have track record to have high absenteeism time
-  * ID 34, 9, 36 predicted will have high absenteeism
 * Recommendation
   * The company need to mantain employee spirit. They can make some event to keep employee spirit like gathering or eat together for every division
   * For every director or supervisor can reduce the workload for every senior employee so they can mantain their health and prevent absenteeism time
-  * Every supervisor need to remind their employee to do their task even they need to look after their children or pet
-  * Employee need to upgrade their health facilities in office or have some link with health facilities near at office so employee no need to waste much time to go to other hospital
-  * If can, company can give lunch menu or give some snack at office to prevent employee have poison illness
-  * Every supervisor or director need to track their employee task or make schedule so the employee will stay on track. It include ID 34, 9, 36 who predicted will have high absenteeism
-  * HR team need to call id 3,11, 14 to ask what improvement that they need to reduce absenteeism time
+  * Every supervisor need to remind their employee to do their task even they need to look after their children or pet.
+ 
+For full report of this project, please visit <a href="https://github.com/Juantonios1/Absenteeism-Analysis-to-Improve-Work-Performance/blob/main/Absenteeism%20Analysis%20ipynb/Absenteeism%20Analysis%20to%20Improve%20Work%20Performance.ipynb">Absenteeism at Work</a>.
 
 ## Contributors:
 Juan Antonio Suwardi - antonio.juan.suwardi@gmail.com  
